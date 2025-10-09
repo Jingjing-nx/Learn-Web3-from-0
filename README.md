@@ -23,4 +23,5 @@ https://ethernaut.zeppelin.solutions/level/0xdf51a9e8ce57e7787e4a27dd19880fd7106
 币安学院：https://academy.binance.com/zh-CN  
 
 ## 可以看看的资讯
+币安alpha空投日历 https://alpha123.uk/zh/
 
