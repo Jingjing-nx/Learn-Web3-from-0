@@ -25,3 +25,9 @@ https://ethernaut.zeppelin.solutions/level/0xdf51a9e8ce57e7787e4a27dd19880fd7106
 ## 可以看看的资讯
 币安alpha空投日历 https://alpha123.uk/zh/
 
+## 招聘网站
+abetterweb3 https://abetterweb3.notion.site/
+dejob  https://www.dejob.top/job
+tt3labs https://tt3labs.com/search_results
+web3 career https://web3.career/
+
